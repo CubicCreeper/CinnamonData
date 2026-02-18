@@ -8,10 +8,20 @@
             "name": "cubiccreeper",
             "user-id": "EB2ADEF5D92EB75"
         },
+        {
+            "name": "SIGMABOY",
+            "user-id": "A534E4557E46492B"
+        },
+        {
+            "name": "CDEV",
+            "user-id": "BFF49DF8BDDD08B8"
+        },
 
     ],
     "super-admins": [
         "cubiccreeper",
+        "SIGMABOY",
+        "CDEV",
     ],
     "blacklisted-ids": [
 
@@ -21,3 +31,4 @@
     ]
 
 }
+
