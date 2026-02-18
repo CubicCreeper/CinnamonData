@@ -1,7 +1,7 @@
 {
-    "menu-version": "1.0.7",
+    "menu-version": "0.0.1",
     "discord-invite": "",
-    "motd": "",
+    "motd": "Welcome to Cinnamon",
     "admins": [
 
         {
@@ -19,4 +19,5 @@
     "detected-mods": [
 
     ]
+
 }
