@@ -1,0 +1,22 @@
+{
+    "menu-version": "1.0.7",
+    "discord-invite": "",
+    "motd": "",
+    "admins": [
+
+        {
+            "name": "cubiccreeper",
+            "user-id": "EB2ADEF5D92EB75"
+        },
+
+    ],
+    "super-admins": [
+        "cubiccreeper",
+    ],
+    "blacklisted-ids": [
+
+    ],
+    "detected-mods": [
+
+    ]
+}
